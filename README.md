@@ -9,7 +9,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [My email](mailto:jennifer.ehala@gmail.com?subject=[GitHub]%20Reference%20Email)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am Peruvian! 🇵🇪
+- ⚡ Fun fact: I'm Peruvian! 🇵🇪
 
 ### 🛠 &nbsp;Tech Stack
 

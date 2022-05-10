@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Vue.js
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about anything
-- 📫 How to reach me: [My website](jenniferehala.netlify.com)
+- 📫 How to reach me: [My website](www.jenniferehala.netlify.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am Peruvian! 🇵🇪
 

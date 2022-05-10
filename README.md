@@ -1,4 +1,4 @@
-### Hi! I'm Jennifer. 👋
+### Hi! I'm Jennifer. Welcome to my GitHub 👋
 
 
 

@@ -57,7 +57,7 @@ Coming Soon!
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://www.jenniferehala.netlify.app"><img src="https://img.shields.io/badge/-jenniferehala.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://jenniferehala.netlify.app/"><img src="https://img.shields.io/badge/-jenniferehala.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/jenniferehala"><img src="https://img.shields.io/badge/-Jennifer%20Ehala%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jennifer.ehala@gmail.com"><img src="https://img.shields.io/badge/-jennifer.ehala@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/jenniferehala"><img src="https://img.shields.io/badge/-@jenniferehala-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>

@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on [MERN Recipe Blog Website](http://3.85.30.61/)
+- 🔭 I’m currently working on [MERN Recipe Blog Website](http://3.80.118.230/)
 - 🌱 I’m currently learning GraphQl and Typescript
 - 👯 I’m looking to collaborate on Vue.js
 - 🤔 I’m looking for help with AWS

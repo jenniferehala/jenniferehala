@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jennifer (She/Her) </h1>
 <h3 align="center">A passionate software developer from NJ</h3>
 &nbsp;
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenniferehala&label=Profile%20views&color=0e75b6&style=flat" alt="jenniferehala" /> </p>
 

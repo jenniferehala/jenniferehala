@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **jennifer.ehala@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1jmkCrME03TlgZQE8WUtjJ2SyJ2SCUWk5YUeKjkGXvFU/edit](https://docs.google.com/document/d/1jmkCrME03TlgZQE8WUtjJ2SyJ2SCUWk5YUeKjkGXvFU/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1jmkCrME03TlgZQE8WUtjJ2SyJ2SCUWk5YUeKjkGXvFU/edit)
 
 - ⚡ Fun fact **I'm an opera singer.**
 
@@ -54,7 +54,7 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <p>
-  <img align="center" height="145" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenniferehala&show_icons=true&locale=en&layout=compact" alt="jenniferehala" />
+  <img align="left" height="145" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenniferehala&show_icons=true&locale=en&layout=compact" alt="jenniferehala" />
 
   <img align="center" width="350" height="165" src="https://github-readme-stats.vercel.app/api?username=jenniferehala&show_icons=true&locale=en" alt="jenniferehala" />
 

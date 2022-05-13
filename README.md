@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/headers/carlottanotaro/ftRtwRu9355h.gif)](https://jenniferehala.netlify.app/)
+<!-- [![MasterHead](https://media3.giphy.com/headers/carlottanotaro/ftRtwRu9355h.gif)](https://jenniferehala.netlify.app/) -->
 <h1 align="center">Hi 👋, I'm Jennifer (She/Her) </h1>
 <h3 align="center">A passionate software developer from NJ</h3>
 &nbsp;

@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/jenniferehala" target="blank"><img src="https://img.shields.io/twitter/follow/jenniferehala?logo=twitter&style=for-the-badge" alt="jenniferehala" /></a> </p>
 
-- 🔭 I’m currently working on [Recipe Blog Website](http://3.80.118.230/)
+- 🔭 I’m currently working on [Recipe Blog Website](https://github.com/jenniferehala/NutritarianEats)
 
 - 🌱 I’m currently learning **GraphQL and Typescript**
 

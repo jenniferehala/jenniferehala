@@ -18,8 +18,8 @@
 
 - 👨‍💻 All of my projects are available at [https://jenniferehala.netlify.app/](https://jenniferehala.netlify.app/)
 
-- 📝 I regularly write articles on [https://jenniferehala.netlify.app/](https://jenniferehala.netlify.app/)
-
+<!-- - 📝 I regularly write articles on [https://jenniferehala.netlify.app/](https://jenniferehala.netlify.app/)
+ -->
 - 💬 Ask me about **react, javascript, and python**
 
 - 📫 How to reach me **jennifer.ehala@gmail.com**

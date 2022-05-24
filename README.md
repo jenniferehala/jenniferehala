@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **React Native projects**
 
-- 👨‍💻 All of my projects are available at [https://jenniferehala.netlify.app/](https://jenniferehala.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jenniferehala.github.io/devportfolio/](https://jenniferehala.github.io/devportfolio/)
 
 <!-- - 📝 I regularly write articles on [https://jenniferehala.netlify.app/](https://jenniferehala.netlify.app/)
  -->
